@@ -1,5 +1,5 @@
 # Online-code-editor
 
 
-## Credits (naemon)[https://github.com/naemazam/Live-Code-Editor]
+## Credits [https://github.com/naemazam/Live-Code-Editor](naemon)
 
